@@ -33,13 +33,13 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Symptom Checker
+  - Healthcare
 apis:
   - name: ApiMedic
     description: "ApiMedic offers a medical symptom checker API primarily for patients"
     humanURL: https://apimedic.com/
-    baseURL: https://apimedic.com/
     tags:
       - Sports And Fitness
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Sports And Fitness
