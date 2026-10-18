@@ -40,7 +40,8 @@ apis:
   - name: ApiMedic
     description: "ApiMedic offers a medical symptom checker API primarily for patients"
     humanURL: https://apimedic.com/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
